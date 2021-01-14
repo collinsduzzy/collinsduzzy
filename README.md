@@ -1,10 +1,20 @@
-### Hi there 👋
+# WooHoo, you made it! 👋🤝
+
+Since you're here, I might just introduce myself a bit. I'm Collins. I create simple, modern design concepts and patterns that improves user experience & productivity on web apps and sites.
+
+### I'm currently working on
+
+* [Msmart Skill Center](https://www.msmartskillecenter.com) - A website for a training/skill center startup in Abuja, Nigeria.
+
+
+### check me out on
+
+* [Twitter](https://www.twitter.com/xollinsduzzy)
+* [LinkedIn](https://www.linkedin.com/in/collins-duzzy)
+
+Let's build together 🛠🚀 Stay safe y'all. 😷❤
 
 <!--
-**collinsduzzy/collinsduzzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
