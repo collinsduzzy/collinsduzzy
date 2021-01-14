@@ -12,9 +12,9 @@ I create simple, modern design concepts that improves user experience & producti
 
 ### This year, I'll be focusing on three things:
 
-* Writing more code (@react.js)
-* Writing more code (@tailwindlabs)
-* Writing more code (@Next.js)
+* Writing more code (React.js)
+* Writing more code (TailwindCSS)
+* Writing more code (Next.js)
 
 ### You can reach me on
 
