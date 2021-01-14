@@ -8,18 +8,18 @@ I create simple, modern design concepts that improves user experience & producti
 
 ### I'm currently maintaining
 
-* [Msmart Skill Center](https://www.msmartskillecenter.com) - A website for a training/skill-acquisition startup in Abuja, Nigeria.
+* [Msmart Skill Center](https://www.msmartskillcenter.com) - A website for a training/skill-acquisition startup in Abuja, Nigeria.
 
 ### This year, I'll be focusing on three things:
 
-* Writing more code (React.js)
-* Writing more code (TailwindCSS)
-* Writing more code (Next.js)
+* A popular JavaScript framework known as React
+* Create UI concepts & design systems with TailwindCSS
+* Freelancing
 
 ### You can reach me on
 
 * [Twitter](https://www.twitter.com/xollinsduzzy)
-* [LinkedIn](https://www.linkedin.com/in/collins-duzzy)
+* [LinkedIn](https://www.linkedin.com/in/collins-okoroafor-60732b12a/y)
 
 Let's build together 🛠🚀 
 
