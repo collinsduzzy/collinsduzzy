@@ -8,13 +8,15 @@ I create simple, modern design concepts that improves user experience & producti
 
 ### I'm currently maintaining
 
-* [Msmart Skill Center](https://www.msmartskillcenter.com) - A website for a training/skill-acquisition startup in Abuja, Nigeria.
+* [Halibiz Industries](https://www.halibizindustries.com) - A consumer goods industry in Abuja, Nigeria.
+
+* [Msmart Skill Center](https://www.msmartskillcenter.com) - A training/skill-acquisition startup in Abuja, Nigeria.
 
 ### This year, I'll be focusing on three things:
 
-* A popular JavaScript framework known as React
-* Create UI concepts & design systems with TailwindCSS
-* Freelancing
+* Creating UI concepts & design systems with TailwindCSS
+* Learning PHP
+* DevRel
 
 ### You can reach me on
 
