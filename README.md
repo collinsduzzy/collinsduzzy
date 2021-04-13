@@ -1,3 +1,4 @@
+![current stack](https://i.ibb.co/939VDmH/1616941052277.jpg)
 # WooHoo, you made it! 🎉👏🤝
 
 Since you're here, I might just introduce myself a bit.
@@ -24,5 +25,3 @@ I build simple, modern design concepts that improves user experience & productiv
 * [LinkedIn](https://www.linkedin.com/in/collins-okoroafor-60732b12a/y)
 
 Let's build together 🛠🚀 
-
-y'all be safe, aight? 😷❤
