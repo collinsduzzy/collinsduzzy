@@ -1,4 +1,4 @@
-![current stack](https://i.ibb.co/JpHTrLk/1500x500.jpg)
+![current stack](https://i.ibb.co/2NVnGc9/2000x666.jpg)
 # WooHoo, you made it! 🎉👏🤝
 
 Since you're here, I might just introduce myself a bit.
