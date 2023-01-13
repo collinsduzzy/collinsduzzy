@@ -1,9 +1,8 @@
-![current stack](https://i.ibb.co/2NVnGc9/2000x666.jpg)
 # WooHoo, you made it! 🎉👏🤝
 
 Since you're here, I might just introduce myself a bit.
 
-I'm Collins, a Full Stack Developer based in Abuja, Nigeria.
+I'm Collins, a Front End Developer based in Abuja, Nigeria.
 
 I build simple, modern websites and apps that improves user experience & productivity.
 
