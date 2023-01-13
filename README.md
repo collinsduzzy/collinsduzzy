@@ -3,25 +3,26 @@
 
 Since you're here, I might just introduce myself a bit.
 
-I'm Collins, a Front End Developer based in Abuja, Nigeria.
+I'm Collins, a Full Stack Developer based in Abuja, Nigeria.
 
-I build simple, modern design concepts that improves user experience & productivity on web apps and sites.
+I build simple, modern websites and apps that improves user experience & productivity.
 
-### I'm currently maintaining
+### I'm currently active in
 
-* [Halibiz Industries](https://www.halibizindustries.com) - A fast moving consumer goods industry in Idu Industrial Layout Abuja, Nigeria.
+* [CORE-TECH](https://github.com/coresystechng) - A team of young and aspiring web developers
 
-* [Msmart Skill Center](https://www.msmartskillcenter.com) - A training/skill-acquisition startup in  Gwanrinpa Estates Abuja, Nigeria.
+* [NITDA Blockchain Scholarship](https://github.com/calistus-igwilo/nitda-blockchain-scholarship) - A Blockchain Scholarship Program, powered by Domineum Blockchain Solutions.
 
-### This year, I'll be focusing on three things:
+### This year, I'll be focusing on
 
-* Creating UI concepts & design systems with TailwindCSS
-* Learning PHP + one of its frameworks (Laravel, obviously)
-* DevRel - building a team of web developers. [Interested?](https://www.github.com/coresystemstech)
+* Building a team of cool web developers
+* Creating UI concepts & design systems
+* Completing the NITDA Scholarship Program
 
 ### You can reach me on
 
-* [Twitter](https://www.twitter.com/xollinsduzzy)
+* [Twitter](https://www.twitter.com/clnsdzy)
+* [Instagram](https://www.instagram.com/clnsdzy)
 * [LinkedIn](https://www.linkedin.com/in/collins-okoroafor-60732b12a/y)
 
 Let's build together 🛠🚀 
