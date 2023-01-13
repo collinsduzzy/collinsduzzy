@@ -7,6 +7,9 @@ I'm Collins, a Full Stack Developer based in Abuja, Nigeria.
 
 I build simple, modern websites and apps that improves user experience & productivity.
 
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=collinsduzzy&count_private=true&show_icons=true&theme=synthwave)](https://github.com/collinsduzzy/github-readme-stats)
+[![My Top Stack](https://github-readme-stats.vercel.app/api/top-langs/?username=collinsduzzy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### I'm currently active in
 
 * [CORE-TECH](https://github.com/coresystechng) - A team of young and aspiring web developers
