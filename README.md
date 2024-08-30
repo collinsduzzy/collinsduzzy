@@ -1,6 +1,6 @@
 ## Collins Okoroafor <img height="24" width="32" src="https://cdn.simpleicons.org/starship/fff" />
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=iamshaunjp.visitor-badge" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=collinsduzzy.visitor-badge" alt="visitor badge"/>
 
 Hi there 👋🏾, I'm Collins (I go by `/clnsdzy` in most online places), a web developer based in Abuja, Nigeria.
 
