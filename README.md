@@ -22,6 +22,7 @@ I have a longer [portfolio webpage,](https://collinsduzzy.github.io/) if you are
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/-Markdown-181717?style=flat-square&logo=markdown&logoColor=white)
+![Jekyll](https://img.shields.io/badge/-Jekyll-CC0000?style=flat-square&logo=jekyll&logoColor=white)
 ---
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Materialize](https://img.shields.io/badge/-MaterializeCSS-ee6e73?style=flat-square&logo=matomo&logoColor=white)
