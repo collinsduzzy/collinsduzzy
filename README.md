@@ -40,8 +40,6 @@ I have a longer [portfolio webpage,](https://collinsduzzy.github.io/) if you are
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collinsduzzy&layout=compact&hide_progress=true&theme=transparent&card_width=400)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=collinsduzzy&theme=transparent&hide_border=true)](https://git.io/streak-stats)
-
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=collinsduzzy&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_title=true&rank_icon=github&card_width=400)](https://github.com/anuraghazra/github-readme-stats) 
 
 
