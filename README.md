@@ -1,7 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Collins%20Okoroafor&textBg=false&fontColor=fff&fontSize=50&section=header)
----
+![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Collins%20Okoroafor&textBg=false&fontColor=fff&fontSize=50&section=header) 
+
 ![()](https://img.shields.io/badge/FULLSTACK-134074) ![()](https://img.shields.io/badge/DEVOPS-134074) ![()](https://img.shields.io/badge/MENTORING-134074) ![()](https://img.shields.io/badge/TUTORING-134074) ![()](https://img.shields.io/badge/GAMING-134074)
 
+---
 Hi there, I'm Collins (I go by `/clnsdzy` in most online places), a web developer based in Abuja, Nigeria.
 
 I focus on building simple yet modern web apps and sites that improve user experience & productivity. I also spend some of my time tutoring and mentoring the next generation of talents in the web dev community.
@@ -52,11 +53,8 @@ I have a longer [portfolio webpage,](https://collinsduzzy.github.io/) if you are
 
 #### You can reach me via
 
-[<img height="24" width="24" src="https://cdn.simpleicons.org/gmail" />](mailto:collins.okoroafor@outlook.com)
-[<img height="24" width="24" src="https://cdn.simpleicons.org/X" />](https://www.twitter.com/clnsdzy)
-[<img height="24" width="24" src="https://cdn.simpleicons.org/instagram" />](https://www.instagram.com/clnsdzy)
-[<img height="24" width="24" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/collins-okoroafor-60732b12a/)
-
+[<img height="24" width="24" src="https://cdn.simpleicons.org/gmail" />](mailto:collins.okoroafor@outlook.com)   [<img height="24" width="24" src="https://cdn.simpleicons.org/X" />](https://www.twitter.com/clnsdzy)   [<img height="24" width="24" src="https://cdn.simpleicons.org/instagram" />](https://www.instagram.com/clnsdzy)   [<img height="24" width="24" src="https://cdn.simpleicons.org/linkedin" />](https://www.linkedin.com/in/collins-okoroafor-60732b12a/)    
+ 
 ##### Let's build stuff together! 🛠🚀
 
  ![](https://komarev.com/ghpvc/?username=collinsduzzy&style=flat-style) ![GitHub followers](https://img.shields.io/github/followers/collinsduzzy) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCJhOn2pMQF5gSCdrziqexCQ)
