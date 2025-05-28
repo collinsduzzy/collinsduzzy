@@ -69,7 +69,9 @@ I have a longer [portfolio webpage,](https://collinsduzzy.github.io/) if you are
 ---
 
 #### Music I listen to while working
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0nZir17YedvgEsEKGL6KVk?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+[Leaving Earth](https://open.spotify.com/embed/playlist/0nZir17YedvgEsEKGL6KVk?utm_source=generator&theme=0)
+
+ ---
  
 ##### Let's build stuff together! 🛠🚀
 
