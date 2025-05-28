@@ -67,6 +67,9 @@ I have a longer [portfolio webpage,](https://collinsduzzy.github.io/) if you are
 [<img height="24" width="24" src="https://cdn.simpleicons.org/gmail" />](mailto:collins.okoroafor@outlook.com)   [<img height="24" width="24" src="https://cdn.simpleicons.org/X" />](https://www.twitter.com/clnsdzy)   [<img height="24" width="24" src="https://cdn.simpleicons.org/instagram" />](https://www.instagram.com/clnsdzy)   
 
 ---
+
+#### Music I listen to while working
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0nZir17YedvgEsEKGL6KVk?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
  
 ##### Let's build stuff together! 🛠🚀
 
